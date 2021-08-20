@@ -5,5 +5,5 @@ This work attempts to detect and classify stutters in the input audio while exis
 We propose an SVM-based system that can suggest therapies based on the type and severity of the stuttering.
 We have also developed an Android app, Node.js based server and exploited Firebase for storing API requests and responses.
 
-# Link to the dataset: [link](https://drive.google.com/drive/folders/16iYlxl8ap-1dNyIxnEdLCaUav21ctCrf?usp=sharing)
+# Link to the pre-processed dataset: [link](https://drive.google.com/drive/folders/16iYlxl8ap-1dNyIxnEdLCaUav21ctCrf?usp=sharing)
 
